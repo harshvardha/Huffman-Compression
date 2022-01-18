@@ -1,0 +1,6 @@
+step-1 : build the dictionary with each letter as a key and value for that key will be the frequency of that letter in the string.
+
+step-2 : sort the dictionary with merge sort algorithm.
+
+step-3 : build the huffman tree and generate binary codes for each letter in the string and encrypt the file with those binary codes in less
+	size.
